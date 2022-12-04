@@ -1,0 +1,8 @@
+version: 2
+tpsheetFileNames:
+- Assets/Character/Sprites/New folder/perranSpriteSheet.tpsheet
+textureFileNames:
+- Assets/Character/Sprites/New folder/perranSpriteSheet.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
