@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/gcoxh/Desktop/MA Indie Game Dev/Templates-Guides-Tutorials/2D Platformer Test 10-10-22/WebGL Builds;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/gcoxh/Desktop/MA Indie Game Dev/Templates-Guides-Tutorials/PerransQuestVSlice/7-12-22WebGlBuild;C:/Users/gcoxh/Desktop/MA Indie Game Dev/Templates-Guides-Tutorials/PerransQuestVSlice/WebGL Builds/Build;C:/Users/gcoxh/Desktop/MA Indie Game Dev/Templates-Guides-Tutorials/2D Platformer Test 10-10-22/WebGL Builds;;;;;;;\"}"
             }
         ]
     }
